@@ -1,0 +1,9 @@
+pip install discord
+pip install discord.py
+pip install asyncio
+pip install os
+pip install colorama
+pip install time
+pip install random
+pip install urllib
+pip install config
